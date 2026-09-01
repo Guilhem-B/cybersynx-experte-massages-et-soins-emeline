@@ -1,0 +1,27 @@
+# Experte Massages et Soins — Emeline
+
+## Identité
+- Nom : Experte Massages et Soins - Emeline
+- Type : Massothérapeute
+- Praticienne : Emeline
+- Adresse : 21 residence clos vista d'Agosta, 20166 Pietrosella, Corse-du-Sud
+- Téléphone : 06 21 41 44 43
+- Site : {url vercel}
+
+## Horaires
+Lundi, Mardi, Jeudi, Vendredi : 09:00 – 18:00
+Mercredi, Samedi, Dimanche : Fermé
+Sur rendez-vous uniquement.
+
+## Services
+- Massage relaxant
+- Massage sportif
+- Soin sur-mesure personnalisé
+
+## Avis Google
+Note : 5,0/5 — 14 avis
+- Sarah Kachouri : "Approche personnalisée, attentive et très professionnelle — un souvenir magique"
+- Virginie Segura : "Grâce à son massage, j'ai pu aller au bout de mon trek sans souffrir du dos"
+
+## Contexte SEO
+Massothérapeute experte à Pietrosella, Corse-du-Sud. Massage relaxant et sportif sur rendez-vous, lundi/mardi/jeudi/vendredi de 9h à 18h. Praticienne avec expérience internationale.

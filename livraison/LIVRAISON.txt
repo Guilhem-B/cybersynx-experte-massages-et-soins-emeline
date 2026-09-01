@@ -1,0 +1,49 @@
+═══════════════════════════════════════════════════════════
+  LIVRAISON — SITE WEB PROFESSIONNEL
+  Experte Massages et Soins — Emeline
+  Date : 01/09/2026 | Réalisé par CyberSynx
+═══════════════════════════════════════════════════════════
+
+Bonjour Emeline,
+
+Votre nouveau site web professionnel est en ligne ! Voici tout ce que nous vous livrons.
+
+───────────────────────────────────────────────────────────
+VOTRE SITE WEB
+───────────────────────────────────────────────────────────
+URL : {url vercel}
+
+Votre site comprend :
+✅ Page d'accueil complète (hero, services, avis, galerie, contact)
+✅ 2 avis clients réels intégrés (Sarah Kachouri, Virginie Segura)
+✅ Galerie photos (photos GMB + photos bien-être)
+✅ Fiche horaires complète (Lun/Mar/Jeu/Ven 09:00–18:00)
+✅ Bouton téléphone cliquable en permanence
+✅ Optimisé mobile (responsive)
+✅ Référencement Google (SEO) intégré
+✅ Fiche Google Business prête à être mise à jour
+
+───────────────────────────────────────────────────────────
+PACK GOOGLE BUSINESS (dossier optimisation/)
+───────────────────────────────────────────────────────────
+✅ description_gmb.txt — Texte optimisé à copier dans votre fiche Google
+✅ posts_gmb.txt — 5 publications prêtes à poster
+✅ reponses_avis.txt — Réponses personnalisées pour vos avis
+✅ rapport_optimisation.txt — Plan d'action complet
+
+───────────────────────────────────────────────────────────
+ACTION N°1 À FAIRE MAINTENANT (2 minutes)
+───────────────────────────────────────────────────────────
+→ Allez sur business.google.com
+→ Infos > Site web
+→ Remplacez votre ancienne URL par : {url vercel}
+→ Enregistrez
+
+Cela connecte votre nouveau site à votre fiche Google et améliore
+immédiatement votre visibilité sur "massage Pietrosella" et "massothérapeute Corse".
+
+───────────────────────────────────────────────────────────
+CONTACT & SUPPORT
+───────────────────────────────────────────────────────────
+CyberSynx — Création de sites web pour artisans et indépendants
+Votre site est hébergé sur Vercel (infrastructure mondiale, gratuit).

@@ -1,0 +1,62 @@
+═══════════════════════════════════════════════
+  RAPPORT D'OPTIMISATION GOOGLE BUSINESS
+  EXPERTE MASSAGES ET SOINS — EMELINE — Pietrosella
+  Généré le 01/09/2026 par CyberSynx
+═══════════════════════════════════════════════
+
+ÉTAT ACTUEL
+───────────
+Note Google     : 5,0/5 ⭐ (parfait)
+Nombre d'avis   : 14
+Site web        : Existant (Wix) → REMPLACÉ ✅ {url vercel}
+Description GMB : Non renseignée → À COMPLÉTER
+Photos          : 2 présentes → À ENRICHIR
+Posts GMB       : Aucun → À PUBLIER
+Réponses avis   : Non vérifiées → À COMPLÉTER
+
+
+FAIBLESSES IDENTIFIÉES
+──────────────────────
+1. Site web existant peu visible sur Google (Wix) — remplacé par un site premium optimisé SEO
+2. Description GMB vide — "massage Pietrosella", "massothérapeute Corse" absents
+3. Aucun post — une fiche active bénéficie d'un meilleur classement local
+4. Peu de photos (2) — enrichir avec des images de l'espace et des soins
+5. 14 avis sans réponse — signal manqué pour Google et pour la relation client
+
+
+5 ACTIONS PRIORITAIRES (classées par impact)
+─────────────────────────────────────────────
+
+1. [IMPACT CRITIQUE] Mettre à jour l'URL du site sur Google Business
+   → business.google.com > Infos > Site web
+   → Remplacer l'ancienne URL par : {url vercel}
+   → Temps : 2 minutes
+
+2. [IMPACT ÉLEVÉ] Copier la description GMB
+   → business.google.com > Infos > Description
+   → Copier le contenu de description_gmb.txt
+   → Temps : 3 minutes — Effet : apparition sur "massage Pietrosella", "massothérapeute Corse"
+
+3. [IMPACT ÉLEVÉ] Répondre aux avis (en commençant par Sarah et Virginie)
+   → Utiliser les modèles personnalisés dans reponses_avis.txt
+   → Temps : 15 minutes — Effet : signal Google fort, humanise le service
+
+4. [IMPACT MOYEN] Publier le Post n°1 cette semaine
+   → business.google.com > Posts > Nouveau post
+   → Copier posts_gmb.txt > POST 1
+   → Temps : 5 minutes
+
+5. [IMPACT MOYEN] Ajouter 5 à 8 photos supplémentaires
+   → Espace de soin, ambiance, mains du praticien
+   → Temps : 10 minutes — Effet : +35% de clics sur la fiche
+
+
+POTENTIEL D'AMÉLIORATION
+─────────────────────────
+Emeline dispose d'un profil remarquable : expérience internationale
+(désert marocain, trekking sportif) et 14 avis 5 étoiles. Ces éléments
+constituent un storytelling fort et différenciant, idéal pour les posts
+GMB et la description. À exploiter sans tarder.
+
+Score estimé actuel   : 55/100 (site peu optimisé, description vide — base solide)
+Score estimé après    : 89/100 (avec les 5 actions)
