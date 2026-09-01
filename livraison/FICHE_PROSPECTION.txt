@@ -10,7 +10,7 @@ TÉLÉPHONE          : 06 21 41 44 43
 NOTE GOOGLE        : 5,0/5 ⭐ (14 avis)
 SCORE PIPELINE     : 90/110
 
-SITE LIVRÉ         : {url vercel}
+SITE LIVRÉ         : https://experte-massages-et-soins-emeline.vercel.app
 DATE LIVRAISON     : 01/09/2026
 STATUT             : ✅ Déployé et en ligne
 

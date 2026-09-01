@@ -8,7 +8,7 @@
 ───────────
 Note Google     : 5,0/5 ⭐ (parfait)
 Nombre d'avis   : 14
-Site web        : Existant (Wix) → REMPLACÉ ✅ {url vercel}
+Site web        : Existant (Wix) → REMPLACÉ ✅ https://experte-massages-et-soins-emeline.vercel.app
 Description GMB : Non renseignée → À COMPLÉTER
 Photos          : 2 présentes → À ENRICHIR
 Posts GMB       : Aucun → À PUBLIER
@@ -29,7 +29,7 @@ FAIBLESSES IDENTIFIÉES
 
 1. [IMPACT CRITIQUE] Mettre à jour l'URL du site sur Google Business
    → business.google.com > Infos > Site web
-   → Remplacer l'ancienne URL par : {url vercel}
+   → Remplacer l'ancienne URL par : https://experte-massages-et-soins-emeline.vercel.app
    → Temps : 2 minutes
 
 2. [IMPACT ÉLEVÉ] Copier la description GMB

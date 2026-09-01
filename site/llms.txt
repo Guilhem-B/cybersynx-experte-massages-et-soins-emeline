@@ -6,7 +6,7 @@
 - Praticienne : Emeline
 - Adresse : 21 residence clos vista d'Agosta, 20166 Pietrosella, Corse-du-Sud
 - Téléphone : 06 21 41 44 43
-- Site : {url vercel}
+- Site : https://experte-massages-et-soins-emeline.vercel.app
 
 ## Horaires
 Lundi, Mardi, Jeudi, Vendredi : 09:00 – 18:00

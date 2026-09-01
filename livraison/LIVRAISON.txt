@@ -11,7 +11,7 @@ Votre nouveau site web professionnel est en ligne ! Voici tout ce que nous vous 
 ───────────────────────────────────────────────────────────
 VOTRE SITE WEB
 ───────────────────────────────────────────────────────────
-URL : {url vercel}
+URL : https://experte-massages-et-soins-emeline.vercel.app
 
 Votre site comprend :
 ✅ Page d'accueil complète (hero, services, avis, galerie, contact)
@@ -36,7 +36,7 @@ ACTION N°1 À FAIRE MAINTENANT (2 minutes)
 ───────────────────────────────────────────────────────────
 → Allez sur business.google.com
 → Infos > Site web
-→ Remplacez votre ancienne URL par : {url vercel}
+→ Remplacez votre ancienne URL par : https://experte-massages-et-soins-emeline.vercel.app
 → Enregistrez
 
 Cela connecte votre nouveau site à votre fiche Google et améliore

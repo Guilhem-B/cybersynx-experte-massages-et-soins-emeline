@@ -37,7 +37,7 @@ Sur rendez-vous au 📞 06 21 41 44 43
 Emeline a massé dans le désert marocain, accompagné des trekkers sur leurs parcours, et soigné des dizaines de clients en Corse. Son savoir-faire est unique — et disponible à Pietrosella, sur rendez-vous.
 
 📞 06 21 41 44 43
-🌐 {url vercel}
+🌐 https://experte-massages-et-soins-emeline.vercel.app
 
 #Pietrosella #CorseDuSud #Massothérapie #BienEtre
 

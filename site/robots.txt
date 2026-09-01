@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: {url vercel}/sitemap.xml
+Sitemap: https://experte-massages-et-soins-emeline.vercel.app/sitemap.xml
